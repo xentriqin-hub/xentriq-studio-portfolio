@@ -1,0 +1,6 @@
+{
+  "name": "Xentriq Studio",
+  "description": "Premium single-page portfolio for Xentriq Studio, a modern software development company building digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
